@@ -1,7 +1,7 @@
 {
   "main.css": "/cv_app/static/css/main.8fc8296c.chunk.css",
-  "main.js": "/cv_app/static/js/main.d17fb6d5.chunk.js",
-  "main.js.map": "/cv_app/static/js/main.d17fb6d5.chunk.js.map",
+  "main.js": "/cv_app/static/js/main.b342c281.chunk.js",
+  "main.js.map": "/cv_app/static/js/main.b342c281.chunk.js.map",
   "static/js/1.4a5a09f0.chunk.js": "/cv_app/static/js/1.4a5a09f0.chunk.js",
   "static/js/1.4a5a09f0.chunk.js.map": "/cv_app/static/js/1.4a5a09f0.chunk.js.map",
   "runtime~main.js": "/cv_app/static/js/runtime~main.48747558.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/cv_app/static/media/logo.5d5d9eef.svg",
   "static/css/main.8fc8296c.chunk.css.map": "/cv_app/static/css/main.8fc8296c.chunk.css.map",
   "index.html": "/cv_app/index.html",
-  "precache-manifest.c0320f32ac24b35392d685803461a1dd.js": "/cv_app/precache-manifest.c0320f32ac24b35392d685803461a1dd.js",
+  "precache-manifest.3d5f508baaba50e7ea733f05df01af67.js": "/cv_app/precache-manifest.3d5f508baaba50e7ea733f05df01af67.js",
   "service-worker.js": "/cv_app/service-worker.js"
 }
